@@ -41,28 +41,28 @@ java --module-path "--check from javafx-sdk-21.0.2 % pwd---then paste to here" -
 ## Demo
 <!-- Image 1 -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/xiaosihuangsi/JavaFX-Note-Table/main/Demo_1.png?token=GHSAT0AAAAAACRFU4YHKDWZTICEOHMJGHQ2ZRV3HJQ" alt="Image 1" width="600" />
+  <img src="https://github.com/xiaosihuangsi/JavaFX-Note-Table/blob/main/Demo_1.png" alt="Image 1" width="600" />
   <br />
   <em>Image 1</em>
 </p>
 
 <!-- Image 2 -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/xiaosihuangsi/JavaFX-Note-Table/main/Demo_2.png?token=GHSAT0AAAAAACRFU4YGB3JIJUZ77T4KT3I2ZRV3HUQ" alt="Image 2" width="600" />
+  <img src="https://github.com/xiaosihuangsi/JavaFX-Note-Table/blob/main/Demo_2.png" alt="Image 2" width="600" />
   <br />
   <em>Image 2</em>
 </p>
 
 <!-- Image 3 -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/xiaosihuangsi/JavaFX-Note-Table/main/Demo_3.png?token=GHSAT0AAAAAACRFU4YHJJRV66QO4OCRZAKCZRV3H6Q" alt="Image 3" width="600" />
+  <img src="https://github.com/xiaosihuangsi/JavaFX-Note-Table/blob/main/Demo_3.png" alt="Image 3" width="600" />
   <br />
   <em>Image 3</em>
 </p>
 
 <!-- Image 4 -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/xiaosihuangsi/JavaFX-Note-Table/main/Demo_4_console.png?token=GHSAT0AAAAAACRFU4YHVCDCQUTSRO6CTOW4ZRV3IWQ" alt="Image 4" width="600" />
+  <img src="https://github.com/xiaosihuangsi/JavaFX-Note-Table/blob/main/Demo_4_console.png" alt="Image 4" width="600" />
   <br />
   <em>Image 4</em>
 </p>
